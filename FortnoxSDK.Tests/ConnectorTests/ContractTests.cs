@@ -9,7 +9,6 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace FortnoxSDK.Tests.ConnectorTests;
 
-[Ignore("Failing on 'Internal error'. Investigation needed")]
 [TestClass]
 public class ContractTests
 {
